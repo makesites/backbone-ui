@@ -1,0 +1,3 @@
+[submodule "modal"]
+	path = modal
+	url = git://github.com/backbone-ui/modal.git
