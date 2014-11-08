@@ -7,3 +7,6 @@
 [submodule "slideshow"]
 	path = slideshow
 	url = git://github.com/backbone-ui/slideshow.git
+[submodule "anchor"]
+	path = anchor
+	url = git://github.com/backbone-ui/anchor.git
