@@ -16,3 +16,6 @@
 [submodule "litenav"]
 	path = litenav
 	url = git://github.com/backbone-ui/litenav.git
+[submodule "drawer"]
+	path = drawer
+	url = git://github.com/backbone-ui/drawer.git
