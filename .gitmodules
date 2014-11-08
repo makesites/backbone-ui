@@ -1,3 +1,6 @@
 [submodule "modal"]
 	path = modal
 	url = git://github.com/backbone-ui/modal.git
+[submodule "alert"]
+	path = alert
+	url = git://github.com/backbone-ui/alert.git
