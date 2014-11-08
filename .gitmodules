@@ -4,3 +4,6 @@
 [submodule "alert"]
 	path = alert
 	url = git://github.com/backbone-ui/alert.git
+[submodule "slideshow"]
+	path = slideshow
+	url = git://github.com/backbone-ui/slideshow.git
