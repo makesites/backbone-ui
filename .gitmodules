@@ -13,3 +13,6 @@
 [submodule "sidenav"]
 	path = sidenav
 	url = git://github.com/backbone-ui/sidenav.git
+[submodule "litenav"]
+	path = litenav
+	url = git://github.com/backbone-ui/litenav.git
