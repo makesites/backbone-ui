@@ -10,3 +10,6 @@
 [submodule "anchor"]
 	path = anchor
 	url = git://github.com/backbone-ui/anchor.git
+[submodule "sidenav"]
+	path = sidenav
+	url = git://github.com/backbone-ui/sidenav.git
