@@ -19,3 +19,6 @@
 [submodule "drawer"]
 	path = drawer
 	url = git://github.com/backbone-ui/drawer.git
+[submodule "countdown"]
+	path = countdown
+	url = git://github.com/backbone-ui/countdown.git
